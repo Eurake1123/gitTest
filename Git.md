@@ -14,6 +14,11 @@
 >    * 新版本依赖于旧版本
 > 4. 远程库
 >    * 命令： git clone 将代码下载到本地库
+> 
+> **工作流程图**
+> 
+> ![Git工作流程图 图标](https://img-blog.csdnimg.cn/769d7db6f5ad4256955b6435de8d6ad9.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA6Z2S5pil55qEMmI=,size_20,color_FFFFFF,t_70,g_se,x_16)
+
 
 > **代码托管中心**
 > * 基于网络服务器的远程代码厂库(远程库)   
